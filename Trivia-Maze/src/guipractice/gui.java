@@ -12,5 +12,6 @@ class gui{
         frame.getContentPane().add(button1);
         frame.getContentPane().add(button2);
         frame.setVisible(true);
+        //added comment
     }
 }
